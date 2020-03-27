@@ -19,3 +19,4 @@ client.on ("message", (message) => {
         client.channels.get(`channel id`).send( mention + " " + message.author.username +  ` text`)
     }
     });
+test
